@@ -9,6 +9,7 @@ public class Test {
 		System.out.println(new Date());
 		System.out.println("It's Hello World!");
 		System.out.println("Add New MyName.java");
+		System.out.println("Delete file  MyName.java");
 	}
 
 }
